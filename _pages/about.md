@@ -9,6 +9,8 @@ redirect_from:
 
 Dr. Pan Ji was the Director of Visual Perception of XR Vision Labs at Tencent from July 2022 to Feb 2025. He was a Senior Staff Research Engineer and Manager at InnoPeak Technology (a.k.a., OPPO US Research Center), leading a team to work on XR (AR/VR/MR) related projects, and previously worked as a researcher at NEC Labs America. He did a Post-Doc with Pro. [Ian Reid](https://scholar.google.com/citations?user=ATkNLcQAAAAJ&hl=en) at the University of Adelaide and obtained his Ph.D. from the Australian National University, supervised by Pro. [Hongdong Li](https://scholar.google.com/citations?user=Mq89JAcAAAAJ&hl=en) and Dr. [Mathieu Salzmann](https://scholar.google.com/citations?user=n-B0jr4AAAAJ&hl=en).  His current research interests lie in 3D Gen AI with applications in the gaming industry. He received the Best Student Paper Award at the International Conference on Image Processing (ICIP) 2014.
 
+**I'm hiring interns to work on 3D Gen AI!!!**
+
 # Selected Publications
 Jiayu Yang, Taizhang Shang, Weixuan Sun, Xibin Song, Ziang Chen, Senbo Wang, Shenzhou Chen, Weizhe Liu, Hongdong Li, **Pan Ji**. [Pandora3D: A Comprehensive Framework for High-Quality 3D Shape and Texture Generation](https://arxiv.org/abs/2502.14247). arXiv:2502.14247, 2025.
 
