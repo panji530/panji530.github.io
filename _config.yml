@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Personal Homepage"
+title                    : "Pan Ji — AI Researcher & Entrepreneur | 3D Generation & Spatial Intelligence"
 title_separator          : "-"
-name                     : &name "Pan Ji"
-description              : &description "Technologist"
+name                     : &name "Pan Ji (嵇盼) "
+description              : &description "Pan Ji (嵇盼) is an AI researcher & entrepreneur focusing on 3D generation, spatial intelligence, and generative models. Founder of Vertex Lab. Projects, papers, and contact."
 url                      : https://panji530.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "panji530/panji530.github.io"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Director of Visual Perception"
   location         : "Shanghai, China"
-  employer         : "Tencent"
+  employer         : "Stealth Mode"
   uri              : # URL
   email            : "peterji530 at gmail.com" 
 
